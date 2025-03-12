@@ -26,7 +26,7 @@
 
 * [Jaylin](https://github.com/ayojay222/physcomp_Jaylin)
 
-*
+* [Anderson](https://github.com/AndTen06/AndersonTenecelaMTEC2280)
 
 *
 
